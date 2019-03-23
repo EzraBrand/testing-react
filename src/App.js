@@ -21,7 +21,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Im hungry
+            Im hungrys
           </a>
         </header>
       </div>
